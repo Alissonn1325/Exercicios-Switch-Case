@@ -1,2 +1,2 @@
 # Exercicios-Switch-Case
-Switch-Case De Cria
+Exercícios Basicos de SwitchCase
